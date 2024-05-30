@@ -1,4 +1,4 @@
-# software_design_by_example
+# Code and Breakdown of: Software Design by Example
 Exercises, code and remarks on Software Design by Example book
 
 ## Introduction and Motivation
